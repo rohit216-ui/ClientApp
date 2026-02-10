@@ -13,9 +13,17 @@ public class Entity {
 	public void m2() {
 		
 	}
+
 	
 	public void withdraw() {
+	
+	}
+
+
+	public void m4() {
+
 		
 	}
 }
+
 
