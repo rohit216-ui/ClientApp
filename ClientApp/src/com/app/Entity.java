@@ -13,5 +13,10 @@ public class Entity {
 	public void m2() {
 		
 	}
+
+	public void m4() {
+		
+	}
 }
+
 
