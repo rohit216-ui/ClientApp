@@ -9,4 +9,9 @@ public class Entity {
 	public void m3() {
 		
 	}
+
+	public void m2() {
+		
+	}
 }
+
